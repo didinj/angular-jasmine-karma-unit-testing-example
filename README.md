@@ -1,6 +1,6 @@
 # Angular20TestingAngular 20 Unit Testing Guide with Jasmine and Karma
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68ccd99461d72a43d7c9e938/angular-20-unit-testing-guide-with-jasmine-and-karma).
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.6.
 
